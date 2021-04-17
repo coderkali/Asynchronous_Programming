@@ -1,0 +1,6 @@
+
+}
+java:S1104"[Make executorService a static final constant or non-public and provide accessors if needed.(Ô„Êûûÿÿÿÿ8“†ßˆ/
+]	java:S125""<This block of commented-out lines of code should be removed.(½±Ú¢ıÿÿÿÿ8¾Œ˜ßˆ/
+W
+java:S1444"5Make this "public static executorService" field final(Ô„Êûûÿÿÿÿ8úÍŸßˆ/
